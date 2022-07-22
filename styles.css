@@ -1,0 +1,13 @@
+body {
+    margin-top: 60px;
+  }
+  
+  .image {
+    height: 1000px; 
+    width: 1000;
+  }
+  
+  .list{
+    font-family:'Courier New', Courier, monospace;
+    align: center;
+  }
